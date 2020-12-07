@@ -1,4 +1,6 @@
 # trabajo-final-progra-
+public class Aplicaciones {
+
 public void selecAplicación(){
 String opcion = " "; do{ opcion = JOptionPane.showInputDialog(null,"Ingrese el nombre de la aplicación que desea abrir \n" + " Whatsapp\n" + "Facebook\n" + "Agenda\n" + "Marcador\n" + "Banco\n" + "Instagram\n" + "Volver" ).toUpperCase();
 
